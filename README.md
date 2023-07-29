@@ -1,5 +1,5 @@
 # NASDAQ Price Prediction With Machine Learning
-This repository contains a machine learning project implemented in Python that aims to predict the price for NASDAQ using historical stock data. The project achieved an impressive accuracy of 79.5% in predicting the stock price movement.
+This repository contains a machine learning project implemented in Python that aims to predict the price for NASDAQ using historical stock data. The project achieved an impressive precision score of 79.5% in predicting the stock price movement.
 
 # Project Overview
 The project begins by utilizing the yfinance library to fetch daily stock price data for NASDAQ (^IXIC) from Yahoo Finance. The historical data is loaded and visualized to gain insights into the stock's behavior over time.
